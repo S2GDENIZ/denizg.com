@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="az">
 <head>
 <meta charset="UTF-8">
@@ -127,4 +127,4 @@ h1{
 </div>
 
 </body>
-</html>
+</html>**
